@@ -63,4 +63,5 @@ Docker utilizando o compose, arquivo de configuração com variáveis de ambient
 6. Acessar o shell do container:
     
 	winpty docker exec -it nginx bash
+
 	winpty docker exec -it php-fpm bash
